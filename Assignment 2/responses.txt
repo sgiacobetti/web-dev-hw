@@ -1,0 +1,6 @@
+1. One way data travels on the internet is in packets. The packets travel through different machines until it reaches the correct one. The computer receiving the packets assembles the data and recreates the messages.
+2. DNS is created to translate IP addresses to domain, and visa versa. This makes it easier to find websites because we can search using the letter name instead of the numeric code name.
+3. A "cookie" is a small data piece that is send from a specific website and stored by the web browser onto a persons computer while they are on the internet/website.
+4. 1) protocol
+   2) domain name
+   3)path
