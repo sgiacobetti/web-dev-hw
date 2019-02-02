@@ -10,4 +10,4 @@ I am going to be honest, I did not really decide to take this class, it is requi
 
 [My Responses](./responses.txt)
 
-\![Atom Screenshot](./images/Atom Screenshot.png)
+![Atom Screenshot](./images/Atom Screenshot.png)
