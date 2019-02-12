@@ -1,0 +1,2 @@
+A browser main job is present a specific web resource. It does this by requesting the web resource from the server and it then displays it in the browser window. A browser also renders HTML, which is used to create web pages.
+Markup language annotates the structure of a web page. Everything that is displayed in a web browser is a mix of the webs design, the scripts and the actual text within the web page. The most well known form of markup language on the internet is HTML.
