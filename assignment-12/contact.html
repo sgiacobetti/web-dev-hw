@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="CSS Website">
+    <meta name="author" content="Sam Giacobetti">
+    <meta name="laptop" content="width=1920x1080, initial-scale=1.0">
+    <title>TITLE<title/>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+      body {background-color: snow}
+      h1 {color: blue}
+      .dropbtn {background-color: #4CAF50;color: white;padding: 16px;font-size: 16px;border: none;cursor: pointer;}
+      .dropdown {position: relative;display: inline-block;}
+      .dropdown-content {display: none;
+        position: absolute;background-color: #f9f9f9;min-width: 160px;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 1;}
+      .dropdown-content a {color: black;padding: 12px 16px;text-decoration: none;display: block;}
+      .dropdown-content a:hover {background-color: #f1f1f1}
+      .dropdown:hover .dropdown-content {display: block;}
+      .dropdown:hover .dropbtn {background-color: #3e8e41;}
+      ul {list-style-type: none;margin: 0;padding: 0;width: 200px;background-color: #f1f1f1;}
+li a {display: block;color: #000;padding: 8px 16px;text-decoration: none;}
+/* Change the link color on hover */
+li a:hover {background-color: #555;color: white;}
+
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;}
+    </style>
+  </head>
+
+    <body>
+      <h2>Verticle Navogation Bar</h2>
+      <ul>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="index.html">Index</a></li>
+  <li><a href="services.html">Services</a></li>
+
+  <h2>Dropdown Menu</h2>
+  <p>Move the mouse over the button to open the dropdown menu.</p>
+
+  <div class="Menu">
+    <button class="dropbtn">Menu</button>
+    <div class="dropdown-content">
+    <a href="https://lnt.org/?gclid=Cj0KCQjwkoDmBRCcARIsAG3xzl_6FC3jnDC-ZRqRgu2xI0BcQd2pypyqHVinHfAfS33ysPBt5fQGQC8aAsJTEALw_wcB">Leave No Trace Practice</a>
+    <a href="https://www.us-parks.com">US National Parks Guide</a>
+    <a href="https://www.rei.com/learn/expert-advice/backpacking-checklist.html">Backpacking Gear Check List</a>
+    </div>
+
+    <h2>Contact Page</h2>
+    <p>Feel free to contact us!</p>
+
+    <h1 id="myHeader">Say Hello</h1>
+</ul>
+
+<h2>Contact Form</h2>
+
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname">
+  <br>
+  Email:<br>
+  <input type="text" name="email"
+  <br>
+  Questions/Comments:<br>
+  <inout type="text" name="questions/comments"
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+      <h1></h1>
+      <h2></h2>
+      <p></p>
+    </body>
+</html>

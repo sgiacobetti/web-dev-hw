@@ -1,0 +1,31 @@
+<style>
+h2 {position: absolute;left: 100px;top: 150px;}
+</style>
+</head>
+<body>
+<h2>LETS EXPLORE</h2>
+
+body {color: #3E559E;}
+
+h1 {color: #1D9153}
+
+a.highlight:hover {color: #ff0000;}
+
+</style>
+</head>
+<body>
+
+<h1>This is heading 1</h1>
+<p>My company's name is Adventure Seekers and we offer guided tours and day trips to experience the outdoors in unique, exciting, and eco friendly ways. Our brand colors are green, white, grey and blue and two words to describe the theme of the website are outdoorsy and ecofriendly.</p>
+
+<p><a class="highlight" href="about.html">About</a></p>
+<p><a href="contact.html">Contact</a></p>
+<p><a href="index.html">Index</a></p>
+<p><a href="services.html">Services</a></p>
+
+
+
+
+
+p.serif {font-family: "Times New Roman", Times, serif;}
+p.sansserif {font-family: Arial, Helvetica, sans-serif;}
